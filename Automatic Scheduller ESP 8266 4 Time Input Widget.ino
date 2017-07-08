@@ -34,7 +34,7 @@ SimpleTimer timer;
 WidgetRTC rtc;
 WidgetTerminal terminal(V3);
 
-#define server "XXX.XXX.XXX.XXX"   // or "blynk.cloud-com" for Blynk's cloud server
+#define server "XXX.XXX.XXX.XXX"   // or "blynk-cloud.com" for Blynk's cloud server
 #define TestLED 2                 // on board LED pin assignment
 char Date[16];
 char Time[16];
