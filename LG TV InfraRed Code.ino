@@ -50,3 +50,15 @@
 #define Green   0x20DF8E71
 #define Yellow  0x20DFC639
 #define Blue    0x20DF8679
+#define HDMI1   20DF738C
+#define HDMI2   20DF33CC
+#define HDMI3   20DF9768
+#define HDMI4   20DF5BA4
+#define TV      20DFF00F
+#define AV1     20DF5AA5
+#define AV2     20DF0BF4
+#define Component1 20DFFD02
+#define Component2 20DF2BD4
+
+
+
